@@ -1,5 +1,5 @@
 package com.blz.hashtable;
-public class Node<K, V> {
+ublic class Node<K, V> {
 
 	K key;
 	V value;
